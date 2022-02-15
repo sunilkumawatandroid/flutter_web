@@ -62339,11 +62339,11 @@ A.dt(this.a,"pages",A.as(["tab","contact-us"],s,s))},
 $S:0}
 A.Vn.prototype={
 $0(){var s=t.N
-A.dt(this.a,"pages",A.as(["tab","login"],s,s))},
+A.dt(this.a,"loginPages",A.as(["location","login"],s,s))},
 $S:0}
 A.Vo.prototype={
 $0(){var s=t.N
-A.dt(this.a,"pages",A.as(["tab","sign-up-option"],s,s))},
+A.dt(this.a,"loginPages",A.as(["location","sign-up-option"],s,s))},
 $S:0}
 A.DX.prototype={
 E(a,b){return new A.oH(new A.Vq(),null)}}
