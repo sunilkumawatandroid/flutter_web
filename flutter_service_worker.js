@@ -14,19 +14,22 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"assets/AssetManifest.json": "792e9029aedcf202125952039ce97680",
+"assets/AssetManifest.json": "d1d28b451cc6770992a8d12cc02c9405",
 "assets/NOTICES": "f829b222204bcac9ab21ef70bd04af2e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/assets/images/logo.png": "53590172739ab0d6e10a34f47269e189",
 "assets/assets/images/4.jpg": "ef6a225ed1f16b18fb57bed5f348ece6",
 "assets/assets/images/3.jpeg": "7570054d90559f9fc46158d5cf5e7a74",
 "assets/assets/images/2.jpg": "1ba32167ddfc79c7d0c70c10d0cd18a7",
 "assets/assets/images/1.jpeg": "5c330783c6a2be3b493e458c8f840fa7",
-"index.html": "779a03d1f1b2c134a6b28276e8b83348",
-"/": "779a03d1f1b2c134a6b28276e8b83348",
-"main.dart.js": "0983d97a047ba364760363e4ed9bdb52"
+"assets/assets/png/logo.png": "53590172739ab0d6e10a34f47269e189",
+"assets/assets/png/home_image.png": "2f04867d304cd1d927d72d3f5e7a87d1",
+"assets/assets/png/apple_store.png": "8677d1843cae0ef01d4f22a8f2907799",
+"assets/assets/png/google_play.png": "27805b6d7d675e536a18d25b5466867b",
+"index.html": "52204728a7497771ac8e75dfbe8ed74e",
+"/": "52204728a7497771ac8e75dfbe8ed74e",
+"main.dart.js": "13c563a3cab2f70e4a0a9d12b59dfc6f"
 };
 
 // The application shell files that are downloaded before a service worker can
