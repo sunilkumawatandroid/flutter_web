@@ -15,7 +15,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "assets/AssetManifest.json": "d1d28b451cc6770992a8d12cc02c9405",
-"assets/NOTICES": "f829b222204bcac9ab21ef70bd04af2e",
+"assets/NOTICES": "678fc4011161a2d0b54ff1800fde07a6",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -27,9 +27,9 @@ const RESOURCES = {
 "assets/assets/png/home_image.png": "2f04867d304cd1d927d72d3f5e7a87d1",
 "assets/assets/png/apple_store.png": "8677d1843cae0ef01d4f22a8f2907799",
 "assets/assets/png/google_play.png": "27805b6d7d675e536a18d25b5466867b",
-"index.html": "52204728a7497771ac8e75dfbe8ed74e",
-"/": "52204728a7497771ac8e75dfbe8ed74e",
-"main.dart.js": "13c563a3cab2f70e4a0a9d12b59dfc6f"
+"index.html": "5c4e1f3ef01c28832a03b68d74c1adf2",
+"/": "5c4e1f3ef01c28832a03b68d74c1adf2",
+"main.dart.js": "5f48bc318e8903d7b0051107b865806a"
 };
 
 // The application shell files that are downloaded before a service worker can
